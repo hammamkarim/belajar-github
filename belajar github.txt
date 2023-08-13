@@ -1,2 +1,2 @@
 Github, adalah layanan cloud tuntuk menyeimpan dan mengelola git(instagram programmer)
-github adalah website yg di didalamnya terdapat fitur git.
+Git dan Github merupakan dua hal yang berbeda, digunakan terpisah, tapi bisa disatukan
