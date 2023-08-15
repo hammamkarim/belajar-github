@@ -1,3 +1,13 @@
 # APA ITU GIT & GITHUB
 
-Note : Git dan Github merupakan 2 hal yang berbeda dan merupakan entitas yang terpisah, akan tetapi pemanfaatannya bisa dikolaborasikan
+Note : Git dan Github merupakan dua hal yang berbeda dan merupakan entitas yang terpisah, akan tetapi pemanfaatannya bisa dikolaborasikan
+
+> Version Control System (VSC)
+Version control system adalah system yang mengelola perubahan dalam suatu dokumen, VSC sangan bermanfaat untuk memudahkan kolaborasi dalam membuat code
+
+> GIT
+GIT merupakan salah satu jenis VSC, GIT adalah sebuah VSC untuk mengelola file dalam folde (sepository).
+Riwaya perubahan file disimpan dalam "Commit"
+
+> GITHUB
+Github adalah layanan cloud untuk megelola git dalam bentuk website. Github bisa melakukan hal yang sama dengan git, bedanya git dilakukan secara online. Penggabungan GIT dan Github sangat bermanfaat.
