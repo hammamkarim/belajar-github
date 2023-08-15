@@ -1,1 +1,16 @@
 
+> Pengertian
+Branch adalah cabang dari sebuah commit yang telah dibuat, branch membuat snapshot tanpa mengganggu jalur utama branch dan biasanya digunakan ketika ingin membuat fitur experiment
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Biasanya ketika membuka suatu repository yang muncul pertama kali adalah fil README nya
+
+> Cara Membuat Branch
+1. Dibuat di halaman awal ketika membuka repository tertentu, dan mengubab main branch menjadi nama brach cabang
+2. Dilakukan pada commit changes
+
+> Merge
+Merge berati menggabukan brach, caranya adalah dengan mengklik compare & pull request ( kemungkinan ada branch yang tidak bisa di merge dan harus diperbaiki terlebih dahulu karena da konflik, biasnya karena ada baris yang sama berubah)
+
+Pull Reuest, adalah ketika kita membuat suatu branch baru dan ingin merge branch tersebut, maka kita harus meminta izin terlebih dahulu kepada admin yang punya repository agar perubahan bisa masuk, jadi tidak secara otomatis, karena kita akan merubah repo punya orang, oleh karena itu kita harus meminta izin terlebih dahulu kepada yang punya repo
+
+Menghapus Branch bisa dilakukan dengan cara masuk kedalam menu braches.
