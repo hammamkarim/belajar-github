@@ -1,1 +1,12 @@
-Test
+
+o> Istilah Git
+Repo : Folder project
+Commit : rekaman jejak perubahan repo
+Hash : kode/penanda unik pada sebuah commit
+checkhout : Berpindah ke sebuah Commit
+Branch : Cabang bebas sebuah commit
+Merge : menggabungkan brach
+Remote : Sumber yang memiliki repo
+Clone : Mengambil suatu repo dari remot
+Push : Mengirimkan commit ke repo
+Pull : Mengambil commit dari repo
