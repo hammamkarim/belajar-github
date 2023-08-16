@@ -1,1 +1,8 @@
 #4 GITHUB : FORK
+
+> Pengertian
+Menyalin suaty repository milik orang lain ke dalam akun GitHub beserta dengan history commite nya. Biasanyaa digunakan ketika kita tertarik pada alur pembuatan branch atau commite orang lain maka kita bisa menyalinnya dan memodifikasinya.
+
+> Cara Fork
+1. Langsug saja edit filenya yang telah dibuka, biasanya setelah itu akan muncul tulisan "fork this project"
+2. Kik menu fork yang tersedia ketika membuka suatu repository
